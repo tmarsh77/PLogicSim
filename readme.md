@@ -1,7 +1,11 @@
+# P~Logic
+
 Logic Simulator written in Python.
 
 This is just a learning test project and contain lots of dirty code and many strange architectural decisions :)
 
+
+<img src="https://github.com/mrpeidz/PLogicSim/blob/master/screenshot.png" width="600" height="503"> 
 
 HELP:
 
